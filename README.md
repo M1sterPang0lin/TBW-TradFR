@@ -12,7 +12,8 @@ Je précise une chose : les polices d'écriture du jeu n'aiment pas les accents 
 
 Si jamais vous voyez des coquilles, des fautes, des oublis, des tournures de phrases un peu étranges, n'hésitez pas à les partager dans la discussion dédiée sur Steam :
 [Lien vers la discussion sur Steam](https://steamcommunity.com/app/1043810/discussions/0/720116096634504152/)
-Afin que je puisse les corriger et en faire profiter tout le monde.
+
+Afin que je puisse les corriger et en faire profiter tout le monde. Merci !
 
 ## <ins>Pour télécharger</ins> :
 
