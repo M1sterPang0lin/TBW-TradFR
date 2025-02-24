@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Exclure README.md des releases
+/README.md export-ignore
+
+# Exclure .gitattributes des releases
+/.gitattributes export-ignore
