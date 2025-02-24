@@ -4,6 +4,9 @@
 Je précise une chose : les polices d'écriture du jeu n'aiment pas les accents aigus, graves ou circonflexes donc quand c'est le cas, c'est la police de secours de base du moteur Unity qui est utilisée et ça donne un petit effet sur la lettre accentuée, j'ai dû ruser un maximum pour que ça se voit le moins possible mais c'est là, je ne peux rien y faire. Mais si vous connaissez Bepinex/XUnity Autotranslator ou une solution, je suis vraiment preneur.
 
 
+### Autre petite info importante : je conseille de mettre la vitesse d'affichage du texte (dans les paramètres en haut à gauche une fois dans une phase de dialogue) en instantané. Ça évitera cette transition anglais into français désagréable. Inévitable malheureusement dans certains cas précis mais le français finira toujours par s'afficher.
+
+
 Si jamais vous voyez des coquilles, des fautes, des oublis, des tournures de phrases un peu étranges, n'hésitez pas à les partager dans la discussion dédiée sur Steam :
 [Lien vers la discussion sur Steam](https://steamcommunity.com/app/1043810/discussions/0/720116096634504152/)
 
@@ -25,9 +28,6 @@ Suprrimez le dossier 'Bepinex" et les fichiers suivants :
 - changelog.txt
 - doorstop_config.ini
 - winhttp.dll
-
-
-### Autre petite info importante : je conseille de mettre la vitesse d'affichage du texte (dans les paramètres en haut à gauche une fois dans une phase de dialogue) en instantané. Ça évitera cette transition anglais into français désagréable. Inévitable malheureusement dans certains cas précis mais le français finira toujours par s'afficher.
 
 
 <ins>Pour le lore</ins> :
