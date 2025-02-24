@@ -14,10 +14,10 @@ Tout est configuré pour qu'au prochain lancement du jeu, le texte anglais soit 
 
 Pour la désinstallation :
 Suprrimez le dossier 'Bepinex" et les fichiers suivants :
-.doorstop_version
-changelog.txt
-doorstop_config.ini
-winhttp.dll
+- .doorstop_version
+- changelog.txt
+- doorstop_config.ini
+- winhttp.dll
 
 Autre petite info importante : je conseille de mettre la vitesse d'affichage du texte (dans les paramètres en haut à gauche une fois dans une phase de dialogue) en instantané. Ça évitera cette transition anglais into français désagréable. Inévitable malheureusement dans certains cas précis mais le français finira toujours par s'afficher.
 
