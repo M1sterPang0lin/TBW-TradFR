@@ -8,8 +8,11 @@ Je précise une chose : les polices d'écriture du jeu n'aiment pas les accents 
 
 Si jamais vous voyez des coquilles, des fautes, des oublis, des tournures de phrases un peu étranges, n'hésitez pas à les partager dans cette discussion, que je puisse les retoucher et en faire profiter tout le monde.
 
-Pour l'installation :
-dézippez le dossier 'Bepinex' et les 4 autres fichiers directement dans le répertoire source de Tactical Breach Wizards, là où est le fichier tactical Breach Wizards.exe.
+Pour télécharger :
+Cliquez sur le bouton vert '<> Code v' et 'Download Zip' pour lancer le téléchargement du mod.
+
+<u>Pour l'installation :</u>
+Dézippez le dossier 'Bepinex' et les 4 autres fichiers directement dans le répertoire source de Tactical Breach Wizards, là où est le fichier tactical Breach Wizards.exe.
 Tout est configuré pour qu'au prochain lancement du jeu, le texte anglais soit remplacé par la traduction.
 
 Pour la désinstallation :
