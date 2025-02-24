@@ -1,0 +1,160 @@
+[Message:   BepInEx] BepInEx 5.4.23.2 - Tactical Breach Wizards (12/01/2025 03:06:46)
+[Info   :   BepInEx] Running under Unity v2019.4.40.16762411
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.2]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [XUnity Auto Translator 5.4.4]
+[Info   :XUnity.AutoTranslator] Version of TextMesh Pro: 1.4.0.
+[Info   :  HarmonyX] ### Harmony id=xunity.common.hookinghelper, version=2.9.0.0, location=F:\Jeux\Steam\steamapps\common\Tactical Breach Wizards\BepInEx\core\0Harmony.dll, env/clr=4.0.30319.42000, platform=Win32NT, ptrsize:runtime/env=8/Bits64, Windows
+### Started from static object System.Reflection.MonoCMethod::InternalInvoke(object obj, object[] parameters, Exception& exc), location F:\Jeux\Steam\steamapps\common\Tactical Breach Wizards\Tactical Breach Wizards_Data\Managed\mscorlib.dll
+### At 2025-02-18 01.49.25
+[Info   :  HarmonyX] Patching virtual void UnityEngine.UI.Text::set_text(string value) with 0 prefixes, 1 postfixes, 0 transpilers, 0 finalizers
+1 postfixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.UGUI.Text_text_Hook::Postfix(UnityEngine.Component __instance)
+
+[Info   :  HarmonyX] Running ILHook manipulator on virtual void UnityEngine.UI.Text::set_text(string value)
+[Info   :  HarmonyX] Writing postfixes
+[Info   :  HarmonyX] Patching virtual void UnityEngine.UI.Text::OnEnable() with 0 prefixes, 1 postfixes, 0 transpilers, 0 finalizers
+1 postfixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.UGUI.Text_OnEnable_Hook::Postfix(UnityEngine.Component __instance)
+
+[Info   :  HarmonyX] Running ILHook manipulator on virtual void UnityEngine.UI.Text::OnEnable()
+[Info   :  HarmonyX] Writing postfixes
+[Info   :  HarmonyX] Patching virtual void TMPro.TextMeshProUGUI::OnEnable() with 0 prefixes, 1 postfixes, 0 transpilers, 0 finalizers
+1 postfixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.TextMeshPro.TeshMeshProUGUI_OnEnable_Hook::Postfix(UnityEngine.Component __instance)
+
+[Info   :  HarmonyX] Running ILHook manipulator on virtual void TMPro.TextMeshProUGUI::OnEnable()
+[Info   :  HarmonyX] Writing postfixes
+[Info   :  HarmonyX] Patching virtual void TMPro.TextMeshPro::OnEnable() with 0 prefixes, 1 postfixes, 0 transpilers, 0 finalizers
+1 postfixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.TextMeshPro.TeshMeshPro_OnEnable_Hook::Postfix(UnityEngine.Component __instance)
+
+[Info   :  HarmonyX] Running ILHook manipulator on virtual void TMPro.TextMeshPro::OnEnable()
+[Info   :  HarmonyX] Writing postfixes
+[Info   :  HarmonyX] Patching virtual void TMPro.TMP_Text::set_text(string value) with 0 prefixes, 1 postfixes, 0 transpilers, 0 finalizers
+1 postfixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.TextMeshPro.TMP_Text_text_Hook::Postfix(UnityEngine.Component __instance)
+
+[Info   :  HarmonyX] Running ILHook manipulator on virtual void TMPro.TMP_Text::set_text(string value)
+[Info   :  HarmonyX] Writing postfixes
+[Info   :  HarmonyX] Patching void TMPro.TMP_Text::SetText(System.Text.StringBuilder sourceText) with 0 prefixes, 1 postfixes, 0 transpilers, 0 finalizers
+1 postfixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.TextMeshPro.TMP_Text_SetText_Hook1::Postfix(UnityEngine.Component __instance)
+
+[Info   :  HarmonyX] Running ILHook manipulator on void TMPro.TMP_Text::SetText(System.Text.StringBuilder sourceText)
+[Info   :  HarmonyX] Writing postfixes
+[Info   :  HarmonyX] Patching void TMPro.TMP_Text::SetText(string sourceText, bool syncTextInputBox) with 0 prefixes, 1 postfixes, 0 transpilers, 0 finalizers
+1 postfixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.TextMeshPro.TMP_Text_SetText_Hook2::Postfix(UnityEngine.Component __instance)
+
+[Info   :  HarmonyX] Running ILHook manipulator on void TMPro.TMP_Text::SetText(string sourceText, bool syncTextInputBox)
+[Info   :  HarmonyX] Writing postfixes
+[Info   :  HarmonyX] Patching void TMPro.TMP_Text::SetText(string sourceText, float arg0, float arg1, float arg2) with 0 prefixes, 1 postfixes, 0 transpilers, 0 finalizers
+1 postfixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.TextMeshPro.TMP_Text_SetText_Hook3::Postfix(UnityEngine.Component __instance)
+
+[Info   :  HarmonyX] Running ILHook manipulator on void TMPro.TMP_Text::SetText(string sourceText, float arg0, float arg1, float arg2)
+[Info   :  HarmonyX] Writing postfixes
+[Info   :  HarmonyX] Patching void TMPro.TMP_Text::SetCharArray(char[] sourceText) with 0 prefixes, 1 postfixes, 0 transpilers, 0 finalizers
+1 postfixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.TextMeshPro.TMP_Text_SetCharArray_Hook1::Postfix(UnityEngine.Component __instance)
+
+[Info   :  HarmonyX] Running ILHook manipulator on void TMPro.TMP_Text::SetCharArray(char[] sourceText)
+[Info   :  HarmonyX] Writing postfixes
+[Info   :  HarmonyX] Patching void TMPro.TMP_Text::SetCharArray(char[] sourceText, int start, int length) with 0 prefixes, 1 postfixes, 0 transpilers, 0 finalizers
+1 postfixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.TextMeshPro.TMP_Text_SetCharArray_Hook2::Postfix(UnityEngine.Component __instance)
+
+[Info   :  HarmonyX] Running ILHook manipulator on void TMPro.TMP_Text::SetCharArray(char[] sourceText, int start, int length)
+[Info   :  HarmonyX] Writing postfixes
+[Warning:  HarmonyX] AccessTools.Method: Could not find method for type TMPro.TMP_Text and name SetCharArray and parameters (int[], int, int)
+[Warning:XUnity.AutoTranslator] Could not hook 'TMP_Text_SetCharArray_Hook3'. Likely due differences between different versions of the engine or text framework.
+[Info   :  HarmonyX] Patching static void UnityEngine.GUI::BeginGroup(UnityEngine.Rect position, UnityEngine.GUIContent content, UnityEngine.GUIStyle style, UnityEngine.Vector2 scrollOffset) with 1 prefixes, 0 postfixes, 0 transpilers, 0 finalizers
+1 prefixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.GUI_BeginGroup_Hook_New::Prefix(UnityEngine.GUIContent content)
+
+[Info   :  HarmonyX] Running ILHook manipulator on static void UnityEngine.GUI::BeginGroup(UnityEngine.Rect position, UnityEngine.GUIContent content, UnityEngine.GUIStyle style, UnityEngine.Vector2 scrollOffset)
+[Info   :  HarmonyX] Writing prefixes
+[Info   :  HarmonyX] Patching static void UnityEngine.GUI::DoLabel(UnityEngine.Rect position, UnityEngine.GUIContent content, UnityEngine.GUIStyle style) with 1 prefixes, 0 postfixes, 0 transpilers, 0 finalizers
+1 prefixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.GUI_DoLabel_Hook_New::Prefix(UnityEngine.GUIContent content)
+
+[Info   :  HarmonyX] Running ILHook manipulator on static void UnityEngine.GUI::DoLabel(UnityEngine.Rect position, UnityEngine.GUIContent content, UnityEngine.GUIStyle style)
+[Info   :  HarmonyX] Writing prefixes
+[Info   :  HarmonyX] Patching static bool UnityEngine.GUI::DoButton(UnityEngine.Rect position, int id, UnityEngine.GUIContent content, UnityEngine.GUIStyle style) with 1 prefixes, 0 postfixes, 0 transpilers, 0 finalizers
+1 prefixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.GUI_DoButton_Hook_New::Prefix(UnityEngine.GUIContent content)
+
+[Info   :  HarmonyX] Running ILHook manipulator on static bool UnityEngine.GUI::DoButton(UnityEngine.Rect position, int id, UnityEngine.GUIContent content, UnityEngine.GUIStyle style)
+[Info   :  HarmonyX] Writing prefixes
+[Info   :  HarmonyX] Patching static int UnityEngine.GUI::DoButtonGrid(UnityEngine.Rect position, int selected, UnityEngine.GUIContent[] contents, string[] controlNames, int xCount, UnityEngine.GUIStyle style, UnityEngine.GUIStyle firstStyle, UnityEngine.GUIStyle midStyle, UnityEngine.GUIStyle lastStyle, UnityEngine.GUI+ToolbarButtonSize buttonSize, bool[] contentsEnabled) with 1 prefixes, 0 postfixes, 0 transpilers, 0 finalizers
+1 prefixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.GUI_DoButtonGrid_Hook_2019::Prefix(UnityEngine.GUIContent[] contents)
+
+[Info   :  HarmonyX] Running ILHook manipulator on static int UnityEngine.GUI::DoButtonGrid(UnityEngine.Rect position, int selected, UnityEngine.GUIContent[] contents, string[] controlNames, int xCount, UnityEngine.GUIStyle style, UnityEngine.GUIStyle firstStyle, UnityEngine.GUIStyle midStyle, UnityEngine.GUIStyle lastStyle, UnityEngine.GUI+ToolbarButtonSize buttonSize, bool[] contentsEnabled)
+[Info   :  HarmonyX] Writing prefixes
+[Info   :  HarmonyX] Patching static bool UnityEngine.GUI::DoToggle(UnityEngine.Rect position, int id, bool value, UnityEngine.GUIContent content, UnityEngine.GUIStyle style) with 1 prefixes, 0 postfixes, 0 transpilers, 0 finalizers
+1 prefixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.GUI_DoToggle_Hook_New::Prefix(UnityEngine.GUIContent content)
+
+[Info   :  HarmonyX] Running ILHook manipulator on static bool UnityEngine.GUI::DoToggle(UnityEngine.Rect position, int id, bool value, UnityEngine.GUIContent content, UnityEngine.GUIStyle style)
+[Info   :  HarmonyX] Writing prefixes
+[Info   :  HarmonyX] Patching static void UnityEngine.GUI::Box(UnityEngine.Rect position, UnityEngine.GUIContent content, UnityEngine.GUIStyle style) with 1 prefixes, 0 postfixes, 0 transpilers, 0 finalizers
+1 prefixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.GUI_Box_Hook::Prefix(UnityEngine.GUIContent content)
+
+[Info   :  HarmonyX] Running ILHook manipulator on static void UnityEngine.GUI::Box(UnityEngine.Rect position, UnityEngine.GUIContent content, UnityEngine.GUIStyle style)
+[Info   :  HarmonyX] Writing prefixes
+[Info   :  HarmonyX] Patching static bool UnityEngine.GUI::DoRepeatButton(UnityEngine.Rect position, UnityEngine.GUIContent content, UnityEngine.GUIStyle style, UnityEngine.FocusType focusType) with 1 prefixes, 0 postfixes, 0 transpilers, 0 finalizers
+1 prefixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.GUI_DoRepeatButton_Hook::Prefix(UnityEngine.GUIContent content)
+
+[Info   :  HarmonyX] Running ILHook manipulator on static bool UnityEngine.GUI::DoRepeatButton(UnityEngine.Rect position, UnityEngine.GUIContent content, UnityEngine.GUIStyle style, UnityEngine.FocusType focusType)
+[Info   :  HarmonyX] Writing prefixes
+[Info   :  HarmonyX] Patching static UnityEngine.Rect UnityEngine.GUI::DoModalWindow(int id, UnityEngine.Rect clientRect, UnityEngine.GUI+WindowFunction func, UnityEngine.GUIContent content, UnityEngine.GUIStyle style, UnityEngine.GUISkin skin) with 1 prefixes, 0 postfixes, 0 transpilers, 0 finalizers
+1 prefixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.GUI_DoModalWindow_Hook::Prefix(int id, UnityEngine.GUI+WindowFunction func, UnityEngine.GUIContent content)
+
+[Info   :  HarmonyX] Running ILHook manipulator on static UnityEngine.Rect UnityEngine.GUI::DoModalWindow(int id, UnityEngine.Rect clientRect, UnityEngine.GUI+WindowFunction func, UnityEngine.GUIContent content, UnityEngine.GUIStyle style, UnityEngine.GUISkin skin)
+[Info   :  HarmonyX] Writing prefixes
+[Info   :  HarmonyX] Patching static UnityEngine.Rect UnityEngine.GUI::DoWindow(int id, UnityEngine.Rect clientRect, UnityEngine.GUI+WindowFunction func, UnityEngine.GUIContent title, UnityEngine.GUIStyle style, UnityEngine.GUISkin skin, bool forceRectOnLayout) with 1 prefixes, 0 postfixes, 0 transpilers, 0 finalizers
+1 prefixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.GUI_DoWindow_Hook::Prefix(int id, UnityEngine.GUI+WindowFunction func, UnityEngine.GUIContent title)
+
+[Info   :  HarmonyX] Running ILHook manipulator on static UnityEngine.Rect UnityEngine.GUI::DoWindow(int id, UnityEngine.Rect clientRect, UnityEngine.GUI+WindowFunction func, UnityEngine.GUIContent title, UnityEngine.GUIStyle style, UnityEngine.GUISkin skin, bool forceRectOnLayout)
+[Info   :  HarmonyX] Writing prefixes
+[Info   :  HarmonyX] Patching void UnityEngine.TextMesh::set_text(string value) with 0 prefixes, 1 postfixes, 0 transpilers, 0 finalizers
+1 postfixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.UGUI.TextMesh_text_Hook::Postfix(UnityEngine.Component __instance)
+
+[Info   :  HarmonyX] Running ILHook manipulator on void UnityEngine.TextMesh::set_text(string value)
+[Info   :  HarmonyX] Writing postfixes
+[Info   :  HarmonyX] Patching void UnityEngine.GameObject::SetActive(bool value) with 0 prefixes, 1 postfixes, 0 transpilers, 0 finalizers
+1 postfixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.UGUI.GameObject_SetActive_Hook::Postfix(UnityEngine.GameObject __instance, bool value)
+
+[Info   :  HarmonyX] Running ILHook manipulator on void UnityEngine.GameObject::SetActive(bool value)
+[Info   :  HarmonyX] Writing postfixes
+[Info   :  HarmonyX] Patching void UnityEngine.GameObject::set_active(bool value) with 0 prefixes, 1 postfixes, 0 transpilers, 0 finalizers
+1 postfixes:
+* static void XUnity.AutoTranslator.Plugin.Core.Hooks.UGUI.GameObject_active_Hook::Postfix(UnityEngine.GameObject __instance, bool value)
+
+[Info   :  HarmonyX] Running ILHook manipulator on void UnityEngine.GameObject::set_active(bool value)
+[Info   :  HarmonyX] Writing postfixes
+[Info   :XUnity.AutoTranslator] Attempting to load TextMesh Pro font from asset bundle.
+[Info   :XUnity.AutoTranslator] Loaded TextMesh Pro font uses version: 1.1.0
+[Warning:XUnity.AutoTranslator] TextMesh Pro version mismatch. Font asset version: 1.1.0, TextMesh Pro version: 1.4.0
+[Info   :XUnity.AutoTranslator] Loaded fallback font for TextMesh Pro: Bepinex\font\notosanscjkjp_bold
+[Info   :XUnity.AutoTranslator] Loaded XUnity.AutoTranslator into Unity [2019.4.40f1] game.
+[Info   :   BepInEx] Loading [XUnity Resource Redirector 2.1.0]
+[Message:   BepInEx] Chainloader startup complete
+[Info   :XUnity.AutoTranslator] Skipping plugin scan because no plugin-specific translations has been registered.
