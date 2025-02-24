@@ -10,7 +10,9 @@ Je ne me suis pas intéressé à l'éditeur de niveaux.
 Je précise une chose : les polices d'écriture du jeu n'aiment pas les accents aigus, graves ou circonflexes donc quand c'est le cas, c'est la police de secours de base du moteur Unity qui est utilisée et ça donne un petit effet sur la lettre accentuée, j'ai dû ruser un maximum pour que ça se voit le moins possible mais c'est là, je ne peux rien y faire. Mais si vous connaissez Bepinex/XUnity Autotranslator ou une solution, je suis vraiment preneur.
 
 
-Si jamais vous voyez des coquilles, des fautes, des oublis, des tournures de phrases un peu étranges, n'hésitez pas à les partager dans la discussion dédiée,  que je puisse les retoucher et en faire profiter tout le monde.
+Si jamais vous voyez des coquilles, des fautes, des oublis, des tournures de phrases un peu étranges, n'hésitez pas à les partager dans la discussion dédiée sur Steam :
+[Lien vers la discussion sur Steam](https://steamcommunity.com/app/1043810/discussions/0/720116096634504152/)
+Afin que je puisse les corriger et en faire profiter tout le monde.
 
 ## <ins>Pour télécharger</ins> :
 
