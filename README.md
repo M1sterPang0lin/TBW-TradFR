@@ -33,7 +33,7 @@ Suprrimez le dossier 'Bepinex" et les fichiers suivants :
 ### Autre petite info importante : je conseille de mettre la vitesse d'affichage du texte (dans les paramètres en haut à gauche une fois dans une phase de dialogue) en instantané. Ça évitera cette transition anglais into français désagréable. Inévitable malheureusement dans certains cas précis mais le français finira toujours par s'afficher.
 
 
-Pour le lore :
+<ins>Pour le lore</ins> :
 
 J'ai passé beaucoup de temps sur cette traduction car la méthode pour y arriver est un peu particulière : avec Bepinex et Auto-Translator, il faut jouer au moins une fois la situation dans le jeu pour récupérer le texte et pouvoir le traduire. Je vous laisse imaginer le nombre de fois que j'ai fait, refait et rerefait certaines scènes pour tous les cas de figure. Il y a quand même un grand risque que vous tombiez sur une portion non traduite si je ne suis pas passé par là. J'ai essayé au maximum d'éviter ça mais je reste humain et donc faillible. Donc si vous tombez sur un os, partagez-le, de grâce ! Je mettrai à jour au maximum selon les différents retours donc n'hésitez pas à revenir voir si une nouvelle version est disponible.
 
