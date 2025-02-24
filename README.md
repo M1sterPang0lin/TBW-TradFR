@@ -9,7 +9,7 @@ Je précise une chose : les polices d'écriture du jeu n'aiment pas les accents 
 Si jamais vous voyez des coquilles, des fautes, des oublis, des tournures de phrases un peu étranges, n'hésitez pas à les partager dans cette discussion, que je puisse les retoucher et en faire profiter tout le monde.
 
 Pour l'installation :
-dézippez le contenu du .zip dans le répertoire source de Tactical Breach Wizards.
+dézippez le dossier 'Bepinex' et les 4 autres fichiers directement dans le répertoire source de Tactical Breach Wizards.
 Tout est configuré pour qu'au prochain lancement du jeu, le texte anglais soit remplacé par la traduction.
 
 Pour la désinstallation :
