@@ -10,7 +10,7 @@ Je ne me suis pas intéressé à l'éditeur de niveaux.
 Je précise une chose : les polices d'écriture du jeu n'aiment pas les accents aigus, graves ou circonflexes donc quand c'est le cas, c'est la police de secours de base du moteur Unity qui est utilisée et ça donne un petit effet sur la lettre accentuée, j'ai dû ruser un maximum pour que ça se voit le moins possible mais c'est là, je ne peux rien y faire. Mais si vous connaissez Bepinex/XUnity Autotranslator ou une solution, je suis vraiment preneur.
 
 
-Si jamais vous voyez des coquilles, des fautes, des oublis, des tournures de phrases un peu étranges, n'hésitez pas à les partager dans cette discussion, que je puisse les retoucher et en faire profiter tout le monde.
+Si jamais vous voyez des coquilles, des fautes, des oublis, des tournures de phrases un peu étranges, n'hésitez pas à les partager dans la discussion dédiée,  que je puisse les retoucher et en faire profiter tout le monde.
 
 ## <ins>Pour télécharger</ins> :
 
@@ -18,7 +18,7 @@ Cliquez sur le bouton vert '<> Code v' et 'Download Zip' pour lancer le téléch
 
 ## <ins>Pour l'installation</ins> :
 
-Dézippez le dossier 'Bepinex' et les 4 autres fichiers directement dans le répertoire source de Tactical Breach Wizards, là où est le fichier tactical Breach Wizards.exe.
+Dézippez le dossier 'Bepinex' et les 4 autres fichiers directement dans le répertoire source de Tactical Breach Wizards, là où est le fichier Tactical Breach Wizards.exe.
 Tout est configuré pour qu'au prochain lancement du jeu, le texte anglais soit remplacé par la traduction.
 
 ## <ins>Pour la désinstallation</ins> :
