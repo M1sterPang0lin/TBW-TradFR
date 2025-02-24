@@ -18,7 +18,7 @@ Cliquez sur le bouton vert '<> Code v' et 'Download Zip' pour lancer le téléch
 
 ## <ins>Pour l'installation</ins> :
 
-Dézippez le dossier 'Bepinex' et les 4 autres fichiers directement dans le répertoire source de Tactical Breach Wizards, là où est le fichier Tactical Breach Wizards.exe.
+Dézippez tout ce qu'il y a dans le répertoire 'TBW-TradFR-main' (donc le dossier 'Bepinex' et 4 autres fichiers) directement dans le répertoire source de Tactical Breach Wizards, là où est le fichier Tactical Breach Wizards.exe.
 Tout est configuré pour qu'au prochain lancement du jeu, le texte anglais soit remplacé par la traduction.
 
 ## <ins>Pour la désinstallation</ins> :
