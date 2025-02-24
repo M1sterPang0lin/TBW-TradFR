@@ -1,12 +1,6 @@
 # Tactical Breach Wizards - Traduction FR
 
 
-
-
-La traduction concerne les principaux menus et l'intégralité de la campagne. (en principe)
-Je ne me suis pas intéressé à l'éditeur de niveaux.
-
-
 Je précise une chose : les polices d'écriture du jeu n'aiment pas les accents aigus, graves ou circonflexes donc quand c'est le cas, c'est la police de secours de base du moteur Unity qui est utilisée et ça donne un petit effet sur la lettre accentuée, j'ai dû ruser un maximum pour que ça se voit le moins possible mais c'est là, je ne peux rien y faire. Mais si vous connaissez Bepinex/XUnity Autotranslator ou une solution, je suis vraiment preneur.
 
 
@@ -49,10 +43,3 @@ Enjoy.
 
 
 MisterPangolin
-
-
-
-PS : for players of other languages, feel free to use these files to make your own translation. Contact me if you'd like informations on how to proceed.
-
-
-And for devs : thanks for the game, it's freaking awesome ! I hope you don't mind me translating it with this mod !
