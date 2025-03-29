@@ -42,7 +42,7 @@ OUI, il faut vu et joué la scène au moins une fois dans le jeu pour récupére
 Je vous laisse imaginer le nombre de fois que j'ai fait, refait et rerefait certaines scènes pour tous les cas de figure. Il y a quand même un grand risque que vous tombiez sur une portion non traduite si je ne suis pas passé par là. J'ai essayé au maximum d'éviter ça mais je reste humain et donc faillible. Donc si vous tombez sur un os, partagez-le, de grâce ! Je mettrai à jour au maximum selon les différents retours donc n'hésitez pas à revenir voir si une nouvelle version est disponible.
 
 
-Ah et gardez à l'esprit que c'est une traduction amateur faite par un passionné, seul devant son écran, sur son temps libre donc jugez-la comme telle. Oui, il y a beaucoup de phrases traduites un peu littéralement mais voyez cela comme un joli brouillon. Elle reste largement suffisante pour comprendre les tennats et aboutissants de la trame principale.
+Ah et gardez à l'esprit que c'est une traduction amateur faite par un passionné, seul devant son écran, sur son temps libre donc jugez-la comme telle. Oui, il y aura des phrases traduites de façon littérales mais ce n'est pas très grave, elle reste largement suffisante pour comprendre les tenants et aboutissants de la trame principale.
 
 
 Bref, profitez bien du jeu dans la langue de Molière. C'est mon cadeau au jeu, il le mérite.
