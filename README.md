@@ -35,10 +35,14 @@ Suprrimez le dossier 'Bepinex" et les fichiers suivants :
 
 <ins>Pour le lore</ins> :
 
-J'ai passé beaucoup de temps sur cette traduction car la méthode pour y arriver est un peu particulière : avec Bepinex et Auto-Translator, il faut jouer au moins une fois la situation dans le jeu pour récupérer le texte et pouvoir le traduire. Je vous laisse imaginer le nombre de fois que j'ai fait, refait et rerefait certaines scènes pour tous les cas de figure. Il y a quand même un grand risque que vous tombiez sur une portion non traduite si je ne suis pas passé par là. J'ai essayé au maximum d'éviter ça mais je reste humain et donc faillible. Donc si vous tombez sur un os, partagez-le, de grâce ! Je mettrai à jour au maximum selon les différents retours donc n'hésitez pas à revenir voir si une nouvelle version est disponible.
+J'ai passé beaucoup de temps sur cette traduction, plus de 200h pour vous donner une idée, car la méthode pour y arriver est un peu particulière : avec un mod qui s'appelle Bepinex (que vous pouvez retrouver avec Lethal Company par exemple) et son plugin Auto-Translator.
+
+Commennt ça fonctionne ? XUnity aspire le texte qu'il voit à l'écran pour l'injecter dans un fichier texte, ne reste "plus qu'à" traduire ensuite.
+OUI, il faut vu et joué la scène au moins une fois dans le jeu pour récupérer le texte et pouvoir passer de l'anglais au français. Si ce n'est pas traduit, c'est que je ne l'ai pas vu, ce n'est pas un oubli.
+Je vous laisse imaginer le nombre de fois que j'ai fait, refait et rerefait certaines scènes pour tous les cas de figure. Il y a quand même un grand risque que vous tombiez sur une portion non traduite si je ne suis pas passé par là. J'ai essayé au maximum d'éviter ça mais je reste humain et donc faillible. Donc si vous tombez sur un os, partagez-le, de grâce ! Je mettrai à jour au maximum selon les différents retours donc n'hésitez pas à revenir voir si une nouvelle version est disponible.
 
 
-Ah et gardez à l'esprit que c'est une traduction amateur faite par un passionné, seul devant son écran, sur son temps libre donc jugez-la comme telle.
+Ah et gardez à l'esprit que c'est une traduction amateur faite par un passionné, seul devant son écran, sur son temps libre donc jugez-la comme telle. Oui, il y a beaucoup de phrases traduites un peu littéralement mais voyez cela comme un joli brouillon. Elle reste largement suffisante pour comprendre les tennats et aboutissants de la trame principale.
 
 
 Bref, profitez bien du jeu dans la langue de Molière. C'est mon cadeau au jeu, il le mérite.
