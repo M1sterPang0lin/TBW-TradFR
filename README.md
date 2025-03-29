@@ -1,7 +1,8 @@
 # Tactical Breach Wizards - Traduction FR
 
 Mise à jour le 29/03/2025 ~18h20
--Correction de diverses coquilles et phrases encore en anglais
+
+- Correction de diverses coquilles et phrases encore en anglais
 
 Je précise une chose : les polices d'écriture du jeu n'aiment pas les accents aigus, graves ou circonflexes donc quand c'est le cas, c'est la police de secours de base du moteur Unity qui est utilisée et ça donne un petit effet sur la lettre accentuée, j'ai dû ruser un maximum pour que ça se voit le moins possible mais c'est là, je ne peux rien y faire. Mais si vous connaissez Bepinex/XUnity Autotranslator ou une solution, je suis vraiment preneur.
 
