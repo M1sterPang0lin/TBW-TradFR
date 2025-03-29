@@ -1377,6 +1377,13 @@ We can work with that.=C'est déjà un bon début.
 <color\=#FFFFFFFF>Zan Vesker\n</color>Navy Seer\nLevel 6=<color\=#FFFFFFFF>Zan Vesker\n</color>Marine Clairvoyant\nNiveau 6
 <color\=#FFFFFFFF>Zan Vesker\n</color>Navy Seer\nLevel 7=<color\=#FFFFFFFF>Zan Vesker\n</color>Marine Clairvoyant\nNiveau 7
 <color\=#FFFFFFFF>Zan Vesker\n</color>Navy Seer<color\=#FA9900FF>\n1 Perk Point</color><color\=#FA9900FF> to spend</color>=<color\=#FFFFFFFF>Zan Vesker\n</color>Marine Clairvoyant<color\=#FA9900FF>\n1 Point</color><color\=#FA9900FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Zan Vesker\n</color>Navy Seer<color\=#FA9900FF>\n2 Perk Points</color><color\=#FA9900FF> to spend</color>=<color\=#FFFFFFFF>Zan Vesker\n</color>Marine Clairvoyant<color\=#FA9900FF>\n2 points</color><color\=#FA9900FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Zan Vesker\n</color>Navy Seer<color\=#FA9900FF>\n3 Perk Points</color><color\=#FA9900FF> to spend</color>=<color\=#FFFFFFFF>Zan Vesker\n</color>Marine Clairvoyant<color\=#FA9900FF>\n3 points</color><color\=#FA9900FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Zan Vesker\n</color>Navy Seer<color\=#FA9900FF>\n4 Perk Points</color><color\=#FA9900FF> to spend</color>=<color\=#FFFFFFFF>Zan Vesker\n</color>Marine Clairvoyant<color\=#FA9900FF>\n4 points</color><color\=#FA9900FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Zan Vesker\n</color>Navy Seer<color\=#FA9900FF>\n5 Perk Points</color><color\=#FA9900FF> to spend</color>=<color\=#FFFFFFFF>Zan Vesker\n</color>Marine Clairvoyant<color\=#FA9900FF>\n5 points</color><color\=#FA9900FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Zan Vesker\n</color>Navy Seer<color\=#FA9900FF>\n6 Perk Points</color><color\=#FA9900FF> to spend</color>=<color\=#FFFFFFFF>Zan Vesker\n</color>Marine Clairvoyant<color\=#FA9900FF>\n6 points</color><color\=#FA9900FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Zan Vesker\n</color>Navy Seer<color\=#FA9900FF>\n7 Perk Points</color><color\=#FA9900FF> to spend</color>=<color\=#FFFFFFFF>Zan Vesker\n</color>Marine Clairvoyant<color\=#FA9900FF>\n7 points</color><color\=#FA9900FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Zan Vesker\n</color>Navy Seer<color\=#FA9900FF>\n8 Perk Points</color><color\=#FA9900FF> to spend</color>=<color\=#FFFFFFFF>Zan Vesker\n</color>Marine Clairvoyant<color\=#FA9900FF>\n8 points</color><color\=#FA9900FF> À dÉpenser</color>
 <color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch\nLevel 0=<color\=#FFFFFFFF>Jen Kellen\n</color>Sorcière Freelance\nNiveau 0
 <color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch\nLevel 1=<color\=#FFFFFFFF>Jen Kellen\n</color>SorciÈre Freelance\nNiveau 1
 <color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch\nLevel 2=<color\=#FFFFFFFF>Jen Kellen\n</color>SorciÈre Freelance\nNiveau 2
@@ -1385,6 +1392,13 @@ We can work with that.=C'est déjà un bon début.
 <color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch\nLevel 5=<color\=#FFFFFFFF>Jen Kellen\n</color>SorciÈRE Freelance\nNiveau 5
 <color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch\nLevel 6=<color\=#FFFFFFFF>Jen Kellen\n</color>SorciÈre Freelance\nNiveau 6
 <color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch<color\=#EFFA00FF>\n1 Perk Point</color><color\=#EFFA00FF> to spend</color>=<color\=#FFFFFFFF>Jen Kellen\n</color>Sorcière Freelance<color\=#EFFA00FF>\n1 Point</color><color\=#EFFA00FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch<color\=#EFFA00FF>\n2 Perk Points</color><color\=#EFFA00FF> to spend</color>=<color\=#FFFFFFFF>Jen Kellen\n</color>SorciÈre Freelance<color\=#EFFA00FF>\n2 points</color><color\=#EFFA00FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch<color\=#EFFA00FF>\n3 Perk Points</color><color\=#EFFA00FF> to spend</color>=<color\=#FFFFFFFF>Jen Kellen\n</color>SorciÈre Freelance<color\=#EFFA00FF>\n3 points</color><color\=#EFFA00FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch<color\=#EFFA00FF>\n4 Perk Points</color><color\=#EFFA00FF> to spend</color>=<color\=#FFFFFFFF>Jen Kellen\n</color>SorciÈre Freelance<color\=#EFFA00FF>\n4 points</color><color\=#EFFA00FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch<color\=#EFFA00FF>\n5 Perk Points</color><color\=#EFFA00FF> to spend</color>=<color\=#FFFFFFFF>Jen Kellen\n</color>SorciÈre Freelance<color\=#EFFA00FF>\n5 points</color><color\=#EFFA00FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch<color\=#EFFA00FF>\n6 Perk Points</color><color\=#EFFA00FF> to spend</color>=<color\=#FFFFFFFF>Jen Kellen\n</color>SorciÈre Freelance<color\=#EFFA00FF>\n6 points</color><color\=#EFFA00FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch<color\=#EFFA00FF>\n7 Perk Points</color><color\=#EFFA00FF> to spend</color>=<color\=#FFFFFFFF>Jen Kellen\n</color>SorciÈre Freelance<color\=#EFFA00FF>\n7 points</color><color\=#EFFA00FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch<color\=#EFFA00FF>\n8 Perk Points</color><color\=#EFFA00FF> to spend</color>=<color\=#FFFFFFFF>Jen Kellen\n</color>SorciÈre Freelance<color\=#EFFA00FF>\n8 points</color><color\=#EFFA00FF> À dÉpenser</color>
 perk refunds available=Remboursement d'aptitude disponible
 Spend each character's perk points=DÉpensez les points bonus de chaque personnage
 LEVEL UP!=GAIN DE NIVEAU !
@@ -2018,7 +2032,7 @@ Refreshing Jolt=BOUFFÉE DE FRAÎCHEUR
 Refreshing Jolt II=<size\=95%>BOUFFÉE DE FRAÎCHEUR II</size>
 Once per turn, refresh your move after firing=Une fois par tour, redonne votre mouvement une fois que vous avez fait feu.
 <color\=white>Refund Perk</color> 2 available=<color\=white>Remboursements de Point bonus</color> 2 Disponible
-<color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch<color\=#EFFA00FF>\n2 Perk Points</color><color\=#EFFA00FF> to spend</color>=<color\=#FFFFFFFF>Jen Kellen\n</color>SorciÈre Freelance<color\=#EFFA00FF>\n2 points</color><color\=#EFFA00FF> À dÉpenser</color>
+
 No limit on how many times Refreshing Jolt can trigger per turn=Aucune limite sur le nombre de fois que peut se lancer la technique par tour
 Persistent Delusion=Illusion persistante
 Hurtful Lie=Mensonge Blessant
@@ -2157,7 +2171,7 @@ Explain vessel.=Définis le terme "vaisseau".
 The key you use to open portals. If an item lets you do something different to your main craft, it's a vessel:=La clé que tu utilises pour ouvrir les portails. Si un objet te permet de faire quelque chose de différent de ta magie principale, c'est un vaisseau :
 Another caster carried it long enough that it picked up some of their craft. So your key-=Un autre lanceur de sorts l'a porté suffisamment longtemps pour qu'il s'imprègne d'une partie de sa magie. Donc, ta clé...
 A dealer in a skull mask gave me that, for rezzing her partner from a ketamine overdose.=Une dealeuse avec un masque de tête de mort me l'a donné pour avoir ranimé son partenaire, victime d'une overdose de kétamine.
-OK, so she probably had a sideline in eldritch gateways.=OK, elle avait probablement des touches avec les passages .
+OK, so she probably had a sideline in eldritch gateways.=OK, elle avait probablement des touches avec les passages occultes.
 Then anything that just improves your main craft is a channel.=Donc ensuite, tout ce qui améliore ta magie principale est un canal.
 So your wand is a channel, and your broom is a vessel.=Alors ta baguette est un canal et ton balai est un vaisseau.
 ... Oh my God.=... Oh mon Dieu.
@@ -2193,6 +2207,13 @@ Conduits=Conduits
 <color\=#FFFFFFFF>Dessa Banks\n</color>Necromedic\nLevel 5=<color\=#FFFFFFFF>Dessa Banks\n</color>NÉcromÉdique\nNiveau 5
 <color\=#FFFFFFFF>Dessa Banks\n</color>Necromedic\nLevel 6=<color\=#FFFFFFFF>Dessa Banks\n</color>NÉcromÉdique\nNiveau 6
 <color\=#FFFFFFFF>Dessa Banks\n</color>Necromedic<color\=#5DCDD3FF>\n1 Perk Point</color><color\=#5DCDD3FF> to spend</color>=<color\=#FFFFFFFF>Dessa Banks\n</color>NÉcromÉdique<color\=#5DCDD3FF>\n1 Point</color><color\=#5DCDD3FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Dessa Banks\n</color>Necromedic<color\=#5DCDD3FF>\n2 Perk Points</color><color\=#5DCDD3FF> to spend</color>=<color\=#FFFFFFFF>Dessa Banks\n</color>NÉcromÉdique<color\=#5DCDD3FF>\n2 points</color><color\=#5DCDD3FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Dessa Banks\n</color>Necromedic<color\=#5DCDD3FF>\n3 Perk Points</color><color\=#5DCDD3FF> to spend</color>=<color\=#FFFFFFFF>Dessa Banks\n</color>NÉcromÉdique<color\=#5DCDD3FF>\n3 points</color><color\=#5DCDD3FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Dessa Banks\n</color>Necromedic<color\=#5DCDD3FF>\n4 Perk Points</color><color\=#5DCDD3FF> to spend</color>=<color\=#FFFFFFFF>Dessa Banks\n</color>NÉcromÉdique<color\=#5DCDD3FF>\n4 points</color><color\=#5DCDD3FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Dessa Banks\n</color>Necromedic<color\=#5DCDD3FF>\n5 Perk Points</color><color\=#5DCDD3FF> to spend</color>=<color\=#FFFFFFFF>Dessa Banks\n</color>NÉcromÉdique<color\=#5DCDD3FF>\n5 points</color><color\=#5DCDD3FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Dessa Banks\n</color>Necromedic<color\=#5DCDD3FF>\n6 Perk Points</color><color\=#5DCDD3FF> to spend</color>=<color\=#FFFFFFFF>Dessa Banks\n</color>NÉcromÉdique<color\=#5DCDD3FF>\n6 points</color><color\=#5DCDD3FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Dessa Banks\n</color>Necromedic<color\=#5DCDD3FF>\n7 Perk Points</color><color\=#5DCDD3FF> to spend</color>=<color\=#FFFFFFFF>Dessa Banks\n</color>NÉcromÉdique<color\=#5DCDD3FF>\n7 points</color><color\=#5DCDD3FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Dessa Banks\n</color>Necromedic<color\=#5DCDD3FF>\n8 Perk Points</color><color\=#5DCDD3FF> to spend</color>=<color\=#FFFFFFFF>Dessa Banks\n</color>NÉcromÉdique<color\=#5DCDD3FF>\n8 points</color><color\=#5DCDD3FF> À dÉpenser</color>
 If someone pushable blocks a window, you can still breach there - hitting them for 3 knockback=Si quelqu'un de poussable bloque une lucarne, vous pourrez vous y rendre, tout en lui infligeant 3 de recul au passage
 <color\=white>Refund Perk</color> 3 available=<color\=white>Remboursements de Point bonus</color> 3 Disponible
 Knock out all enemies and reinforcements: 14 left=<size\=95%>Terrassez tous les ennemis et renforts : 14 restants</size>
@@ -2934,6 +2955,9 @@ Glad you asked.=Heureuse que vous posiez la question.
 <color\=#FFFFFFFF>Dall Sabin\n</color>Rebel Riot Priest\nLevel 5=<color\=#FFFFFFFF>Dall Sabin\n</color><size\=88%>PrÊtre Rebelle InsurgÉe</size>\nNiveau 5
 <color\=#FFFFFFFF>Dall Sabin\n</color>Rebel Riot Priest\nLevel 6=<color\=#FFFFFFFF>Dall Sabin\n</color><size\=88%>PrÊtre Rebelle InsurgÉe</size>\nNiveau 6
 <color\=#FFFFFFFF>Dall Sabin\n</color>Rebel Riot Priest<color\=#FF3E95FF>\n1 Perk Point</color><color\=#FF3E95FF> to spend</color>=<color\=#FFFFFFFF>Dall Sabin\n</color><size\=88%>PrÊtre rebelle InsurgÉe</size><color\=#FF3E95FF>\n1 Point</color><color\=#FF3E95FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Dall Sabin\n</color>Rebel Riot Priest<color\=#FF3E95FF>\n2 Perk Points</color><color\=#FF3E95FF> to spend</color>=<color\=#FFFFFFFF>Dall Sabin\n</color><size\=88%>PrÊtre rebelle InsurgÉe</size><color\=#FF3E95FF>\n2 Points</color><color\=#FF3E95FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Dall Sabin\n</color>Rebel Riot Priest<color\=#FF3E95FF>\n3 Perk Points</color><color\=#FF3E95FF> to spend</color>=<color\=#FFFFFFFF>Dall Sabin\n</color><size\=88%>PrÊtre rebelle InsurgÉe</size><color\=#FF3E95FF>\n3 Points</color><color\=#FF3E95FF> À dÉpenser</color>
+<color\=#FFFFFFFF>Dall Sabin\n</color>Rebel Riot Priest<color\=#FF3E95FF>\n4 Perk Points</color><color\=#FF3E95FF> to spend</color>=<color\=#FFFFFFFF>Dall Sabin\n</color><size\=88%>PrÊtre rebelle InsurgÉe</size><color\=#FF3E95FF>\n4 Points</color><color\=#FF3E95FF> À dÉpenser</color>
 Friendly Refund=<size\=95%>Remboursement amical</size>
 +2 Damage=+2 dommages
 Telephasing=TÉlÉphasage
@@ -2945,8 +2969,8 @@ Recall=Rappel
 Wall Mode=Mode Mural
 If you traveled at least 3 tiles, inflict +3 knockback=Si vous avez parcouru au moins 3 tuiles, infligez +3 de recul
 Once per turn, if Charge hits a target, your Action is refunded=Une fois par tour, si la Charge atteint une cible, ne vous fait pas perdre votre Action
-You can optionally pass through targets to Charge at others behind them=Vous pouvez possiblement passer au travers de cibles pour en Charger d'autres qui se trouvent dans leur dos.
-If used on a teammate, the mana cost is refunded. Does not apply to other allies.=Si vous vous en servez sur un partenaire, rembourse votre point de mana. Ne s'applique pas aux autres membres de l'escouade.
+You can optionally pass through targets to Charge at others behind them=Vous pouvez passer au travers de cibles pour en Charger d'autres qui se trouvent dans leur dos.
+If used on a teammate, the mana cost is refunded. Does not apply to other allies.=Si vous vous en servez sur un partenaire, rembourse le point de mana de Dall.
 If enemies are targetting you when you Swap, they'll shoot the person you swap with immediately=Si des ennemis vous visent lorsque vous permutez, ils tireront de suite sur la personne avec laquelle vous permutez.
 Can also swap with any movable object, such as barrels or your Riot Block=Peut aussi permuter avec n'importe quel objet mobile, comme les barils ou votre bloc anti-intrusion
 Once per turn, your Riot Block returns to you when it's destroyed=Une fois par tour, votre bloc anti-intrusion vous revient quand il se fait casser
@@ -4184,7 +4208,7 @@ I'd saved almost 500 people in that time.=J'avais sauvé près de 500 personnes 
 How do you dial that down to zero, just to have an easier life?=Pour avoir une vie plus facile, je serais prête à tout ramener à zéro ?
 But Jen's the bleeding heart.=Mais c'est Jen qui a le cœur qui saigne...
 Shut up.=Ferme-la.
-Defenestrate 1 hostile with Pull=Defensestrez 1 ennemi avec 'Vigne Empalante'
+Defenestrate 1 hostile with Pull=Faire tomber 1 ennemi dans le vide avec 'Vigne Empalante'
 Have Dall deal a total of 4 knockback (cumulative)=Faites que Dall inflige un total de 4 de recul (cumulatif)
 Rion is no longer Neutralised=Rion n'est plus neutralisé
 Shit, I remember this dream!=Merde, je me souviens de ce rêve !
@@ -4216,7 +4240,8 @@ Yeeeah, you got it bad.=Ah ouaiiis, tu l'as bien mauvaise.
 I'd say it's been real, but it specifically hasn't.=Je dirais bien que c'est vrai, mais ce n'est précisément  pas le cas.
 Use Death's Door to eliminate 4 hostiles=Utilisez la Porte de la Mort pour terrasser 4 ennemis
 <color\=#5DCDD3>Banks:</color> Use Death's Door to eliminate 4 hostiles=<size\=84%><color\=#5DCDD3>Banks :</color> Utilisez la Porte de la Mort pour terrasser 4 ennemis</size>
-If falling through your own eldritch portal into a nightmare dimension and meeting your own dream-self from the past teaches you anything, it's this:\n\nHow to teleport a guy.=Si le fait de tomber à travers votre propre portail démoniaque dans une dimension cauchemardesque et de rencontrer votre propre moi onirique du passé vous apprend quelque chose, c'est bien ceci :\n\nComment téléporter un gars.
+If falling through your own eldritch portal into a nightmare dimension and meeting your own dream-self from the past teaches you anything, it's this:\r\nHow to teleport a guy.=Si le fait de tomber à travers votre propre portail démoniaque dans une dimension cauchemardesque et de rencontrer votre propre moi onirique du passé vous apprend quelque chose, c'est bien ceci :\n\ncomment téléporter un gars.
+If falling through your own eldritch portal into a nightmare dimension and meeting your own dream-self from the past teaches you anything, it's this:\n\nHow to teleport a guy.=Si le fait de tomber à travers votre propre portail démoniaque dans une dimension cauchemardesque et de rencontrer votre propre moi onirique du passé vous apprend quelque chose, c'est bien ceci :\n\ncomment téléporter un gars.
 Create a portal beneath anyone to send them tumbling out of an existing Death's Door.=Un portail s'ouvre sous n'importe quel individu pour le faire ressortir d'une porte de la mort existante.
 Death's Floor=Parterre de la mort
 Oh, hey Zan.=Oh, hé Zan.
@@ -4262,7 +4287,7 @@ Heavies=Lourds
 Entry Strategy=Stratégie d'entrée
 Reaching The Meet=Atteindre la rencontre
 A LOT OF REZZING LATER=BEAUCOUP DE RÉAS PLUS TARD
-That was fuckin' rough.=C'était putain de rude.
+That was fuckin' rough.=C'était brutal dis donc.
 No shit.=Sans blague.
 You just died. I went to the death dimension and heard myself make a pun.=Tu es juste mort. Je suis allée dans la dimension des morts et je me suis entendue faire une blague.
 Zan just stares into space.=Zan a le regard perdu dans le vide.
@@ -4301,7 +4326,7 @@ Move Rion to our team=DÉplacez Rion vers notre Équipe
 EXPOSED MOTIVES OF=A DÉVOILÉ DES MOTIFS DE
 CAN NO LONGER INVADE=NE PEUT PLUS ENVAHIR
 Hey Rion, can we move you to our team? Don't answer that I'm doing it.=Hé Rion, est-ce qu'on peut te déplacer dans notre équipe ? Ne réponds pas, c'est déjà acté.
-PLANNING A COUP=PLANIFIE UN COUP D'ÉTAT
+PLANNING A COUP=PLANIFIE UN COUP D'ÉTAT CONTRE
 CAUSED BY=CAUSÉ PAR
 Now we get to click the last few pieces into place...=Maintenant, il ne reste plus qu'à mettre en place les dernières pièces...
 So Liv's not just sick, she's in mana withdrawal=Donc Liv n'est pas seulement malade, elle est en manque de mana
@@ -4384,7 +4409,7 @@ We just get carried away, I guess.=On s'est emballé, j'imagine.
 Where's the meet?=Où se passe la rencontre ?
 Supply train leaves Redsands at 8 sharp. We pile in the last car, Moss and her crew meet us there.=Le train de ravitaillement quitte Redsands à 8 heures tapantes. On s'entasse dans le dernier wagon, Moss et son équipe nous y rejoignent.
 Anything hinky, we're off at the next stop, no hard cheese.=Si quelque chose cloche, on débarque au prochain arrêt, pas de bol.
-If everything's copacetic, we ride it all the way South. Shiv Liv, quick victory parade, back in time for last call.=Si tout est est copacétique, on roule jusqu'au sud. On surine Liv, petite parade de victoire, de retour à la casbah en un rien de temps.
+If everything's copacetic, we ride it all the way South. Shiv Liv, quick victory parade, back in time for last call.=Si tout roule comme sur des roulettes, on roule jusqu'au sud. On surine Liv, petite parade de victoire, de retour à la casbah en un rien de temps.
 You really are new here, huh.=Tu es vraiment nouveau ici, hein.
 SOUTHBOUND=EN DIRECTION DU SUD
 MILITIA SUPPLY TRAIN=<size\=62%>TRAIN DE RAVITAILLEMENT DE LA MILICE</size>
@@ -4717,7 +4742,7 @@ No, I'm done arguing. I just like remembering him.=Non, je ne veux plus débattr
 Me too.=Moi aussi.
 He didn't want you in it. I'm not arguing. But he didn't.=Il ne voulait pas t'embarquer là-dedans. Je ne discute pas. Mais il ne le voulait pas.
 I know, and I tell him every day: tough fucking luck.=Je sais, et je lui dis tous les jours : quelle putain de poisse.
-Staying out didn't keep me safe. The day they killed him, they would have killed me if I hadn't... unlocked.=Rester à l'écart ne m'a pas mise en sécurité. Le jour où ils l'ont tué, ils m'auraient éliminée aussi si je n'avais pas... déverrouillé.
+Staying out didn't keep me safe. The day they killed him, they would have killed me if I hadn't... unlocked.=Me mettre à l'écart ne m'a pas mise en sécurité. Le jour où ils l'ont tué, ils m'auraient éliminée aussi si je n'avais pas... déverrouillé.
 Another foreign word.=Un autre mot étranger.
 Didn't know what the fuck else to call it. I just saw that metal bastard standing over him, felt the cold power radiating off that armour, and every atom in me just said:=Je ne savais pas comment l'appeler autrement. J'ai juste vu ce bâtard de métal se tenir au-dessus de lui, j'ai senti la puissance froide irradier de cette armure, et chaque atome en moi a dit :
 <i>You don't get to have that power. That safety.</i>=<i>Tu n'as pas le droit d'avoir ce pouvoir. Cette sécurité.</i>
@@ -4739,12 +4764,7 @@ But he loves your heart. And he can't watch it get crushed between a shield and 
 Do him one more favour. Look after yourself.=Accorde-lui une dernière faveur. Prends soin de toi.
 I'll try.=Je vais essayer.
 OK. Breach?=OK. Brèche ?
-Gimme a second.=Donne-moi une seconde.
-Chapel Tracker Voidborn=Chapel Tracker Voidborn
-Chapel Tracker Voidborn took 2 knockback=Chapel Tracker Voidborn a pris 2 backback
-Chapel Tracker Voidborn took 1 damage=Chapel Tracker Voidborn a subi 1 dégâts
-Chapel Tracker Voidborn passed out=Chapel Tracker Voidborn s'est évanoui
-Chapel Tracker Voidborn took 2 damage=Chapel Tracker Voidborn a subi 2 dégâts
+Gimme a second.=Dans une seconde.
 Don't seal any doors before the end of turn 3=Ne scellez pas les portes avant la fin du tour 3
 <color\=#FF3E95>Dall:</color> Don't seal any doors before the end of turn 3=<size\=96%><color\=#FF3E95>Dall :</color> Ne scellez pas les portes avant la fin du tour 3</size>
 Dall used Defuse Mine=Dall a désamorcé une mine
@@ -4762,7 +4782,7 @@ Chapel Siege Cleric took 6 damage=Clerc de Guerre de la Chapelle a subi 6 dommag
 Chapel Siege Cleric hit something with 5 knockback left=Clerc de Guerre de la Chapelle a heurté quelque chose avec 5 de recul restants
 Chapel Siege Cleric took 5 knockback=Clerc de Guerre de la Chapelle a subi 5 de recul
 Learning to ease off on herself, just a little, helped Dall to start trusting her instincts. Her power never actually needed vision of the target, she'd just never pushed herself to try without it.=Apprendre à se ménager, ne serait-ce qu'un peu, a aidé Dall à faire confiance à son instinct. Son pouvoir n'avait jamais nécessité la visibilité de la cible, mais elle ne s'était jamais forcée à essayer de s'en passer.
-NICE VIEW, ACTUALLY=BELLE VUE, EN FAIT
+NICE VIEW, ACTUALLY=BELLE VUE, EN VRAI
 Alright, we're on foot from here. Reactor have taken Villa Medil, rail routes in are cut off.=Très bien, on est à pieds à partir d'ici. La Villa Médil a été prise par Reactor, les voies ferroviaires sont coupées.
 We need a defensible position while we wait for backup to take back the Villa, and transport on to the Reserve.=On a besoin d'une position défendable en attendant les renforts pour reprendre la Villa et assurer le transport jusqu'à la Réserve.
 Do we need the Villa?=Est-ce qu'on a besoin de la Villa ?
@@ -5087,7 +5107,7 @@ Sticking with good people doesn't take loyalty, it's just a smart play. Loyalty'
 Amateurs. Bleeding hearts. Tactical shambles.=Des amateurs. Des cœurs saignants. Un désordre tactique.
 But they're on the right side of this, and there's some raw talent in the brew. It's fun to watch that pinball around in the Reactor machine.=Mais ils sont du bon côté, et il y a du talent brut dans le tas. C'est amusant de regarder cette boule de flipper dans la machine Reactor.
 Like a bunch of drunk hornets in a lion's den.=Comme une bande de frelons ivres dans la tanière d'un lion.
-Counts for something. Tells me you might do it again. Tells me it's worth sticking near you, long as our goals are copacetic.=Ça compte. Quelque chose me dit que tu pourrais être amenée à le refaire. Signe qu'il vaut mieux rester auprès de toi, tant que nos objectifs sont copacétiques.
+Counts for something. Tells me you might do it again. Tells me it's worth sticking near you, long as our goals are copacetic.=Ça compte. Quelque chose me dit que tu pourrais être amenée à le refaire. Signe qu'il vaut mieux rester auprès de toi, tant que nos objectifs se rejoignent.
 Stop, I can only take so much raw emotion.=Stop, je ne peux pas supporter plus d'émotions brutes.
 What can I say, I'm a practical animal.=Qu'est-ce que tu veux que je te dise, je suis un animal pragmatique.
 Appreciate the candour.=J'apprécie cette franchise.
@@ -6438,12 +6458,9 @@ The Motherlode=La source
 Dust To Dust=De poussière à poussière
 The Drop=La chute
 The Gold Vault=Le chambre forte
-<color\=white>Zan Vesker</color>\nfreelance witch\n<color\=yellow>1 Perk point</color>=<color\=white>Zan Vesker</color>\nsorcière indépendante\n<color\=yellow>1 Point avantageux</color>
+<color\=white>Zan Vesker</color>\nfreelance witch\n<color\=yellow>1 Perk point</color>=<color\=white>Zan Vesker</color>\nsorcière indépendante\n<color\=yellow>1 Point</color>
 <color\=#FFFFFFFF>Rion\n</color>Druid Hitman<color\=#72FA00FF>\n3 Perk Points</color><color\=#72FA00FF> to spend</color>=<color\=#FFFFFFFF>Rion\n</color>Sicaire Druidique<color\=#72FA00FF>\n3 points de perk</color><color\=#72FA00FF> À dÉpenser</color>
-<color\=#FFFFFFFF>Zan Vesker\n</color>Navy Seer<color\=#FA9900FF>\n6 Perk Points</color><color\=#FA9900FF> to spend</color>=<color\=#FFFFFFFF>Zan Vesker\n</color>Marine Clairvoyant<color\=#FA9900FF>\n6 points perks</color><color\=#FA9900FF> À dÉpenser</color>
-<color\=#FFFFFFFF>Jen Kellen\n</color>Freelance Witch<color\=#EFFA00FF>\n5 Perk Points</color><color\=#EFFA00FF> to spend</color>=<color\=#FFFFFFFF>Jen Kellen\n</color>SorciÈre Freelance<color\=#EFFA00FF>\n5 points de perk</color><color\=#EFFA00FF> À dÉpenser</color>
-<color\=#FFFFFFFF>Dessa Banks\n</color>Necromedic<color\=#5DCDD3FF>\n5 Perk Points</color><color\=#5DCDD3FF> to spend</color>=<color\=#FFFFFFFF>Dessa Banks\n</color>NÉcromÉdique<color\=#5DCDD3FF>\n5 points de perk</color><color\=#5DCDD3FF> À dÉpenser</color>
-<color\=#FFFFFFFF>Dall Sabin\n</color>Rebel Riot Priest<color\=#FF3E95FF>\n4 Perk Points</color><color\=#FF3E95FF> to spend</color>=<color\=#FFFFFFFF>Dall Sabin\n</color>PrÊtre rebelle InsurgÉe<color\=#FF3E95FF>\n4 points de perk</color><color\=#FF3E95FF> À dÉpenser</color>
+
 Getting a recording of a private meeting at the Chapel of the Closed Fist is no mean feat.=Obtenir un enregistrement d'une réunion privée à la Chapelle du Poing Fermé n'est pas une mince affaire.
 Dall says the Chapel of the Civil Tongue is the only place we can get the recording out to the Kalani public.=Dall dit que la Chapelle de la Langue Civile est le seul endroit où nous pouvons diffuser l'enregistrement au public Kalani.
 We grabbed that recording pretty cleanly - I hope it buys us some favour with resistance command.=On a récupéré cet enregistrement assez proprement : j'espère que ça nous achète une faveur avec le commandement de la Résistance.
@@ -6470,3 +6487,10 @@ That's where I met Liv.=C'est là que j'ai rencontré Liv.
 The bomb was a merc job, but this was Ryasi in the seventies - there's no way Chapel money wasn't behind it.=La bombe, c'était du travail de mercenaire, mais c'était Ryasi dans les années soixante-dix : il est impossible que l'argent de la Chapelle ne soit pas à l'origine de ce projet.
 Her reaction focused very much on being right about the dragging noise and much less on the discovery that I could see through time.=Sa réaction s'est concentrée sur le fait d'avoir eu raison au sujet du bruit de traîne et beaucoup moins sur la découverte que je pouvais voir à travers le temps.
 Good story!=Une bien belle histoire !
+Fuck it, I'm rezzing their guy.=Et merde, je vais réanimer leur gars.
+The Druid?! He's not on our side!=Le druide ?! Mais il n'est pas de notre côté !
+You think he's still on Liv's?=Tu penses qu'il est toujours pro-Liv ?
+So you learned False Prophet? What do you call yours?=Donc tu as appris la technique du Faux Prophète ? C'est quoi le nom que tu lui as donné, toi ?
+I'm not five, I don't name my spells.=Je n'ai pas cinq ans, je ne donne pas des petits noms à mes sorts.
+You didn't wanna call it Liv & Let Die?=Pourtant, tu aurais pu l'appeler Liv & Laisser Mourir !
+... God dammit.=Nom de Dieu..
