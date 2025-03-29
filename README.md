@@ -17,7 +17,7 @@ Afin que je puisse les corriger et en faire profiter tout le monde. Merci !
 
 ## <ins>Pour télécharger</ins> :
 
-Cliquez sur le bouton vert '<> Code v' et 'Download Zip' pour lancer le téléchargement du mod.
+Cliquez sur le bouton vert '<> Code' et 'Download Zip' pour lancer le téléchargement du mod.
 
 ## <ins>Pour l'installation</ins> :
 
