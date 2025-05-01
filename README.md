@@ -4,7 +4,7 @@ Mise à jour le 29/03/2025 ~18h20
 
 - Correction de diverses coquilles et phrases encore en anglais
 
-Je précise une chose : les polices d'écriture du jeu n'aiment pas les accents aigus, graves ou circonflexes donc lorqu'il y en a qui apparaissent, c'est la police de secours de base du moteur Unity qui est utilisée et ça donne un petit effet sur la lettre accentuée, j'ai dû ruser un maximum pour que ça se voit le moins possible mais c'est là, je ne peux rien y faire. Mais si vous connaissez Bepinex/XUnity Autotranslator ou une solution, je suis vraiment preneur.
+Je précise une chose : les polices d'écriture du jeu n'aiment pas les accents aigus, graves ou circonflexes donc lorsqu'il y en a qui apparaissent, c'est la police de secours de base du moteur Unity qui est utilisée et ça donne un petit effet sur la lettre accentuée, j'ai dû ruser un maximum pour que ça se voit le moins possible mais c'est là, je ne peux rien y faire. Mais si vous connaissez Bepinex/XUnity Autotranslator ou une solution, je suis vraiment preneur.
 
 
 ### Autre petite info importante : je conseille de mettre la vitesse d'affichage du texte (dans les paramètres en haut à gauche une fois dans une phase de dialogue) en instantané. Ça évitera cette transition anglais into français désagréable. Inévitable malheureusement dans certains cas précis mais le français finira toujours par s'afficher.
