@@ -35,14 +35,14 @@ Supprimez le dossier 'Bepinex" et les fichiers suivants :
 
 <ins>Pour le lore</ins> :
 
-J'ai passé beaucoup de temps sur cette traduction, plus de 200h pour vous donner une idée, car la méthode pour y arriver est un peu particulière : avec un mod qui s'appelle Bepinex (que vous pouvez retrouver avec Lethal Company par exemple) et son plugin Auto-Translator.
+J'ai passé beaucoup de temps sur cette traduction, plus de 200h pour vous donner une idée, car la méthode pour y arriver est un peu particulière : tout se fait grâce à un mod qui s'appelle Bepinex (que vous pouvez aussi retrouver avec Lethal Company par exemple) et son plugin Auto-Translator.
 
-Commennt ça fonctionne ? XUnity aspire le texte qu'il voit à l'écran pour l'injecter dans un fichier texte, ne reste "plus qu'à" traduire ensuite.
-OUI, il faut vu et joué la scène au moins une fois dans le jeu pour récupérer le texte et pouvoir passer de l'anglais au français. Si ce n'est pas traduit, c'est que je ne l'ai pas vu, ce n'est pas un oubli.
-Je vous laisse imaginer le nombre de fois que j'ai fait, refait et rerefait certaines scènes pour tous les cas de figure. Il y a quand même un grand risque que vous tombiez sur une portion non traduite si je ne suis pas passé par là. J'ai essayé au maximum d'éviter ça mais je reste humain et donc faillible. Donc si vous tombez sur un os, partagez-le, de grâce ! Je mettrai à jour au maximum selon les différents retours donc n'hésitez pas à revenir voir si une nouvelle version est disponible.
+Commennt ça fonctionne ? XUnity aspire le texte qu'il voit à l'écran, le traduit via un traducteur automatique choisi et finit par injecter le tout dans un fichier texte, ne reste "plus qu'à" traduire proprement ensuite.
+OUI, il faut avoir vu et joué la scène au moins une fois dans le jeu pour avoir le texte et pouvoir passer de l'anglais au français. Si vous tombez sur une phrase qui n'est pas traduite, c'est que je ne l'ai pas vue, ce n'est pas forcément un oubli.
+Je vous laisse imaginer le nombre de fois à faire, refaire et rerefaire certaines scènes pour jouer tous les cas de figure. Il y a quand même un grand risque que vous tombiez sur une portion non traduite si je ne suis pas passé par là. J'ai essayé au maximum d'éviter ça mais je reste humain et donc faillible. Donc si vous tombez sur un os, partagez-le, de grâce ! Je mettrai à jour au maximum selon les différents retours donc n'hésitez pas à revenir voir si une nouvelle version est disponible.
 
 
-Ah et gardez à l'esprit que c'est une traduction amateur faite par un passionné, seul devant son écran, sur son temps libre donc jugez-la comme telle. Oui, il y aura des phrases traduites de façon littérales mais ce n'est pas très grave, elle reste largement suffisante pour comprendre les tenants et aboutissants de la trame principale.
+Ah et gardez à l'esprit que c'est une traduction amateur faite par un passionné, seul devant son écran, sur son temps libre donc jugez-la comme telle. Oui, il y aura des phrases traduites de façon littérales, oui, ça mériterait d'y passer encore 100h pour la peaufiner mais elle reste largement suffisante pour comprendre les tenants et aboutissants de la trame principale. Si quelqu'un se sent l'energie de tout relire et tout retravailler pour en faire une absolute masterclass, vous avez toute permission pour le faire !
 
 
 Bref, profitez bien du jeu dans la langue de Molière. C'est mon cadeau au jeu, il le mérite.
